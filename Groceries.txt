@@ -1,0 +1,21 @@
+Groceries
+
+Eggs
+Butter
+Cheese
+Chicken
+Broccolli
+Kale
+Lettuce 
+Cucumber
+Tomatoes 
+Onion
+Carrots
+Banana
+Blueberry 
+Strawberry
+Honey 
+Olive oil
+Bread
+Toilet paper
+Paper towel
