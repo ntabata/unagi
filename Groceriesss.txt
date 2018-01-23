@@ -11,9 +11,13 @@ Honey
 Olive oil
 Bread
 Toilet paper
-
+Paper towel
+<<<<<<< HEAD:Groceriesss.txt
+Trash bag
 
 Unagi
 Mochi
 Rice
-
+Ice
+=======
+>>>>>>> parent of 1607409... sdfghj:Groceries.txt
