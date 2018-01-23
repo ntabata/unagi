@@ -5,7 +5,6 @@ Butter
 Cheese
 Chicken
 Broccolli
-Banana
 Blueberry 
 Strawberry
 Honey 
@@ -18,3 +17,4 @@ Trash bag
 Unagi
 Mochi
 Rice
+Ice
