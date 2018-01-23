@@ -5,12 +5,6 @@ Butter
 Cheese
 Chicken
 Broccolli
-Kale
-Lettuce 
-Cucumber
-Tomatoes 
-Onion
-Carrots
 Banana
 Blueberry 
 Strawberry
@@ -20,3 +14,7 @@ Bread
 Toilet paper
 Paper towel
 Trash bag
+
+Unagi
+Mochi
+Rice
