@@ -1,12 +1,4 @@
 Groceries
 
-Eggs
-Butter
 Cheese
-Chicken
-Brocolli
-Blueberry 
-Strawberry
-Honey 
 Ice cream
-
