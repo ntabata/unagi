@@ -1,16 +1,4 @@
 Groceries
 
-Eggs
-Butter
 Cheese
-Chicken
-Brocolli
-Blueberry 
-Strawberry
-Honey 
-Olive oil
-Bread
-Toilet paper
-Paper towel
-Trash bag
-
+Ice cream
